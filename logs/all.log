@@ -1,0 +1,114 @@
+22Y-12-27 14:06:24:624 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:08:29:829 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:08:53:853 - [32minfo[39m : [32mConectou no banco de dados[39m
+2022-12-27 14:08:53:853 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:08:59:859 - [32minfo[39m : [32mConectou no banco de dados[39m
+2022-12-27 14:08:59:859 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:09:06:96 - [32minfo[39m : [32mConectou no banco de dados[39m
+2022-12-27 14:09:06:96 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:09:42:942 - [32minfo[39m : [32mConectou no banco de dados[39m
+2022-12-27 14:09:42:942 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:10:33:1033 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:10:33:1033 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:10:51:1051 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:10:51:1051 - [32minfo[39m : [32mAplicação rodando na porta 3000[39m
+2022-12-27 14:11:12:1112 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:11:12:1112 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:11:27:1127 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:11:27:1127 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:12:14:1214 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:12:14:1214 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:13:27:1327 - [31merror[39m : [31mUnable to connect to the database![39m
+2022-12-27 14:13:41:1341 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:13:41:1341 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:24:47:2447 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:24:47:2447 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:26:48:2648 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:26:48:2648 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:33:05:335 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:33:05:335 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:33:48:3348 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:33:48:3348 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 14:33:54:3354 - [35mhttp[39m : [35mGET /api/test 200 12 - 4.470 ms[39m
+[35m[39m
+2022-12-27 14:34:30:3430 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 14:34:30:3430 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 15:15:44:1544 - [35mhttp[39m : [35mPOST /api/movie 404 149 - 4.731 ms[39m
+[35m[39m
+2022-12-27 15:16:26:1626 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 15:16:26:1626 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 15:16:31:1631 - [35mhttp[39m : [35mPOST /api/movie 200 22 - 4.253 ms[39m
+[35m[39m
+2022-12-27 15:19:39:1939 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 15:19:39:1939 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 15:20:37:2037 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
+2022-12-27 15:20:53:2053 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 15:24:33:2433 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 15:24:33:2433 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 15:24:35:2435 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
+2022-12-27 15:24:39:2439 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 15:25:51:2551 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 15:25:52:2552 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 15:26:06:266 - [35mhttp[39m : [35mPOST /apimovie 404 148 - 1.466 ms[39m
+[35m[39m
+2022-12-27 15:26:19:2619 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
+2022-12-27 15:26:32:2632 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 15:29:21:2921 - [35mhttp[39m : [35mPOST /api/movie 200 155 - 82.710 ms[39m
+[35m[39m
+2022-12-27 16:02:04:24 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:02:04:24 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:02:09:29 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:02:09:29 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:07:57:757 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:07:57:757 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:14:05:145 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:14:05:145 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:14:33:1433 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:14:33:1433 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:15:38:1538 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:15:38:1538 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:16:06:166 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:16:06:166 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:19:06:196 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:19:06:196 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:20:14:2014 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:20:14:2014 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:20:50:2050 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:20:51:2051 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:25:43:2543 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:26:59:2659 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:26:59:2659 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:27:25:2725 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:28:26:2826 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:28:26:2826 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:29:47:2947 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:29:47:2947 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:30:05:305 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:30:18:3018 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:30:44:3044 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:31:14:3114 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:31:27:3127 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:31:57:3157 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:31:57:3157 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:32:11:3211 - [35mhttp[39m : [35mGET /api/test 200 12 - 2.675 ms[39m
+[35m[39m
+2022-12-27 16:32:25:3225 - [35mhttp[39m : [35mPOST /api/test/movie 404 154 - 2.361 ms[39m
+[35m[39m
+2022-12-27 16:32:36:3236 - [35mhttp[39m : [35mPOST /apimovie 404 148 - 0.487 ms[39m
+[35m[39m
+2022-12-27 16:32:51:3251 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-12-27 16:33:20:3320 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:33:20:3320 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:33:23:3323 - [35mhttp[39m : [35mPOST /api/movie 200 156 - 61.433 ms[39m
+[35m[39m

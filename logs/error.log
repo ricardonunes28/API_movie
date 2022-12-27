@@ -1,0 +1,4 @@
+2022-12-27 14:13:27:1327 - [31merror[39m : [31mUnable to connect to the database![39m
+2022-12-27 15:20:37:2037 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
+2022-12-27 15:24:35:2435 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
+2022-12-27 15:26:19:2619 - [31merror[39m : [31mErro ao criar: user is not allowed to do action [insert] on [test.movies][39m
