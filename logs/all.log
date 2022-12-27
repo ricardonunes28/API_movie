@@ -112,3 +112,89 @@
 2022-12-27 16:33:20:3320 - [32minfo[39m : [32mApplication running on port 3000[39m
 2022-12-27 16:33:23:3323 - [35mhttp[39m : [35mPOST /api/movie 200 156 - 61.433 ms[39m
 [35m[39m
+2022-12-27 16:36:38:3638 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 16:36:38:3638 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 16:36:48:3648 - [35mhttp[39m : [35mPOST /api/movie 422 248 - 8.651 ms[39m
+[35m[39m
+2022-12-27 16:37:04:374 - [35mhttp[39m : [35mPOST /api/movie 200 332 - 89.369 ms[39m
+[35m[39m
+2022-12-27 18:25:30:2530 - [31merror[39m : [31mUnable to connect to the database![39m
+2022-12-27 18:27:44:2744 - [31merror[39m : [31mUnable to connect to the database![39m
+2022-12-27 18:29:05:295 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:29:05:295 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:30:14:3014 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:30:14:3014 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:30:57:3057 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:30:57:3057 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:33:38:3338 - [35mhttp[39m : [35mGET /api/movie/63ab4960c172f87f25997d62 - - - - ms[39m
+[35m[39m
+2022-12-27 18:35:31:3531 - [35mhttp[39m : [35mGET /api/movie/63ab4960c172f87f25997d62 - - - - ms[39m
+[35m[39m
+2022-12-27 18:35:58:3558 - [35mhttp[39m : [35mGET /api/movie/63ab4960c172f87f25997d19 404 31 - 31.350 ms[39m
+[35m[39m
+2022-12-27 18:36:26:3626 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:36:26:3626 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:36:30:3630 - [35mhttp[39m : [35mGET /api/movie/63ab4960c172f87f25997d62 200 342 - 48.393 ms[39m
+[35m[39m
+2022-12-27 18:39:09:399 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:39:09:399 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:39:42:3942 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:39:42:3942 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:40:10:4010 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:40:10:4010 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:40:13:4013 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:40:13:4013 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:40:48:4048 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:40:48:4048 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:41:25:4125 - [35mhttp[39m : [35mGET /api/movie 200 657 - 49.380 ms[39m
+[35m[39m
+2022-12-27 18:43:29:4329 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:43:29:4329 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:43:46:4346 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:43:46:4346 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:43:55:4355 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:43:55:4355 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:44:30:4430 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:44:30:4430 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:45:24:4524 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:45:24:4524 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:45:51:4551 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:45:51:4551 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:46:03:463 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:46:03:463 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:46:51:4651 - [35mhttp[39m : [35mDELETE /api/movie/63ab4960c172f87f25997d30 404 30 - 54.926 ms[39m
+[35m[39m
+2022-12-27 18:46:54:4654 - [35mhttp[39m : [35mDELETE /api/movie/63ab4960c172f87f25997d19 404 30 - 30.046 ms[39m
+[35m[39m
+2022-12-27 18:47:08:478 - [35mhttp[39m : [35mDELETE /api/movie/63ab4960c172f87f25997d62 - - - - ms[39m
+[35m[39m
+2022-12-27 18:48:05:485 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:48:05:485 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:48:10:4810 - [35mhttp[39m : [35mDELETE /api/movie/63ab4960c172f87f25997d62 200 38 - 78.624 ms[39m
+[35m[39m
+2022-12-27 18:48:14:4814 - [35mhttp[39m : [35mDELETE /api/movie/63ab4960c172f87f25997d62 404 30 - 33.176 ms[39m
+[35m[39m
+2022-12-27 18:49:11:4911 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:49:11:4911 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:51:08:518 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:51:08:518 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:51:33:5133 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:51:33:5133 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:53:27:5327 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:53:27:5327 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:53:33:5333 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:53:33:5333 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:54:12:5412 - [35mhttp[39m : [35mPATCH /api/movie/63ab4960c172f87f25997d62 404 30 - 49.814 ms[39m
+[35m[39m
+2022-12-27 18:54:46:5446 - [35mhttp[39m : [35mPATCH /api/movie/63ab4960c172f87f25997d62 404 30 - 45.422 ms[39m
+[35m[39m
+2022-12-27 18:55:11:5511 - [35mhttp[39m : [35mPATCH /api/movie/63ab4883fcb9c820e6fe30d9 200 40 - 74.595 ms[39m
+[35m[39m
+2022-12-27 18:56:02:562 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:56:02:562 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:56:04:564 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:56:04:564 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:56:13:5613 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:56:13:5613 - [32minfo[39m : [32mApplication running on port 3000[39m
+2022-12-27 18:57:04:574 - [32minfo[39m : [32mConnected to the database[39m
+2022-12-27 18:57:04:574 - [32minfo[39m : [32mApplication running on port 3000[39m
